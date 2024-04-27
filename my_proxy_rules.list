@@ -1,8 +1,7 @@
-www.reddit.com
-redditmedia.com
-redditstatic.com
-redd.it
-external-preview.redd.it
-www.redditstatic.com
-styles.redditmedia.com
-search.censys.io
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,search.censys.io
